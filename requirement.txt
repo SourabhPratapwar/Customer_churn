@@ -1,0 +1,5 @@
+streamlit
+joblib>=1.3
+scikit-learn>=1.2  # pin to the version you trained with if you saved a model
+pandas
+numpy
